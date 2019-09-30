@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Localisation V2</string>
+    <string name="hello_world">Hello World</string>
+    <string name="flag">Flag of UK</string>
+</resources>

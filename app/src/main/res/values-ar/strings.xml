@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocalisationV2</string>
+    <string name="hello_world">السلام عليكم و رحمة الله و بركاته </string>
+    <string name="flag">Flag of TN</string>
+</resources>
